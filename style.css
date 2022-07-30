@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(/assets/images/fundoBBQ.png);
+    background-image: url(./assets/images/fundoBBQ.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -70,7 +70,7 @@ input{
 }
 
 #blocoNotas{
-    background-image: url(/assets/images/bloco-notas.png);
+    background-image: url(./assets/images/bloco-notas.png);
     background-repeat: no-repeat;
     background-size: cover;
 
